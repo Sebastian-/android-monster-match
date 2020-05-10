@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Monster Match</string>
+    <string name="match_monsters_button_text">Match Monsters!</string>
+    <string name="monster_one_name">Abby</string>
+    <string name="monster_two_name">Bobby</string>
+    <string name="monster_three_name">Colby</string>
+    <string name="match_status_messsage">You matched %1s!</string>
+</resources>
